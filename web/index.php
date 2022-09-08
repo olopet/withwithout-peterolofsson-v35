@@ -52,5 +52,12 @@
             <a href="http://localhost/1b/index.php">1B</a><br>
             <a href="http://localhost/1c/index.php">1C</a><br>    
         </div>
+        <br><br>
+        <div class="center">
+            <a href="http://localhost/2a/index.php">2A</a><br>
+            <a href="http://localhost/2b/index.php">2B</a><br>
+            <a href="http://localhost/2c/index.php">2C</a><br>    
+        </div>
+
     </body>
 </html>
