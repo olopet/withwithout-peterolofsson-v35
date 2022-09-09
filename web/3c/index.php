@@ -5,18 +5,18 @@
 
 <?php
 
-//Lista på 10 frukter jag gillar :9
-$fruits = [
-    ['title' => 'Apple'],
-    ['title' => 'Banana'],
-    ['title' => 'Lime'],
-    ['title' => 'Pear'],
-    ['title' => 'Orange'],
-    ['title' => 'Blueberry'],
-    ['title' => 'Mango'],
-    ['title' => 'Avocado'],
-    ['title' => 'Pineapple'],
-    ['title' => 'Strawberry'],
+    //Lista på 10 frukter jag gillar :9
+    $fruits = [
+        ['title' => 'Apple'],
+        ['title' => 'Banana'],
+        ['title' => 'Lime'],
+        ['title' => 'Pear'],
+        ['title' => 'Orange'],
+        ['title' => 'Blueberry'],
+        ['title' => 'Mango'],
+        ['title' => 'Avocado'],
+        ['title' => 'Pineapple'],
+        ['title' => 'Strawberry'],
     ];
 
 
